@@ -1,0 +1,5 @@
+Proyectos usando el nodeMCU ESP8266.
+
+1.- LM35: Test al sensor de temperatura lm35 usando el ESP8266 y el puerto serial para luego con NodeJs, crear un WebSocket Server.
+2.- WebSocketServer_LEDControl: Usando el ESP8266 como Web Socket Server, se verifica el envío de comandos desde un Cliente QEB
+3.- WebSocketServer_Termometer: Envío de datos vía WebSockts desde el Servidor hacia los Clientes (configurado como máx 5 clientes)
