@@ -1,0 +1,6 @@
+{
+	"terminal.integrated.env.linux": {
+		"PATH": "/home/wsirit/.platformio/penv/bin:/home/wsirit/.platformio/penv:/home/wsirit/gocode/bin:/home/wsirit/gocode/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/microchip/xc8/v1.37/bin:/opt/microchip/xc16/v1.26/bin:/usr/local/go/bin:/opt/microchip/xc8/v1.38/bin:/opt/microchip/xc32/v1.42/bin:/opt/microchip/xc16/v1.31/bin:/opt/microchip/xc32/v1.44/bin:/opt/microchip/xc8/v1.43/bin:/opt/microchip/xc16/v1.32/bin:/opt/microchip/xc8/v1.44/bin:/opt/microchip/xc8/v1.37/bin:/opt/microchip/xc16/v1.26/bin:/opt/microchip/xc8/v1.38/bin:/opt/microchip/xc32/v1.42/bin:/opt/microchip/xc16/v1.31/bin:/opt/microchip/xc32/v1.44/bin:/opt/microchip/xc8/v1.43/bin:/opt/microchip/xc16/v1.32/bin:/opt/microchip/xc8/v1.44/bin:/opt/microchip/xc8/v1.37/bin:/opt/microchip/xc16/v1.26/bin:/usr/local/go/bin:/opt/microchip/xc8/v1.38/bin:/opt/microchip/xc32/v1.42/bin:/opt/microchip/xc16/v1.31/bin:/opt/microchip/xc32/v1.44/bin:/opt/microchip/xc8/v1.43/bin:/opt/microchip/xc16/v1.32/bin:/opt/microchip/xc8/v1.44/bin",
+		"PLATFORMIO_CALLER": "vscode"
+	}
+}
