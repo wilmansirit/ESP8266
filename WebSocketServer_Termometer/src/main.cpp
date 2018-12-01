@@ -102,9 +102,9 @@ void loop()
 
         temperature = String((millivolts / 10.0), 2);
 
-        Serial.print("Tempertaure: ");
-        Serial.print(temperature);
-        Serial.print("\r");
+        // Serial.print("Tempertaure: ");
+        Serial.println(temperature);
+        // Serial.print("\r");
 
         webSocket.broadcastTXT(temperature);
         last = millis();
